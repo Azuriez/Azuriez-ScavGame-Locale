@@ -655,6 +655,8 @@
         "healthpaneltip": "Sağlık paneli",
         "inventorylisttip": "Bütün elindeki ve konteynerlerin listesini göster",
         "combinetip": "Dayanıklılıklarını birleştirmek için aynı olan iki eşyayı elinde tut\nSadece birleştirilebilir eşyalar ile yapılabilir",
+        "inventorylisttipname": "Envanter listi",
+        "combinetipname": "Birleştir",
         "combineable": "Birleştirilebilir"
     },
     "character": [
