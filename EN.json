@@ -177,7 +177,7 @@
         "wooddiggingtool": "Wooden digging tool",
         "wooddiggingtooldsc": "A piece of sharpened wood on a stick. Barely better at digging than claws.",
         "stick": "Stick",
-        "stickdsc": "You're not sure where it came from. Stabbing it into the ground repeatedly is likely neglegibly more efficient than clawing at it unarmed.",
+        "stickdsc": "You're not sure where it came from. Stabbing it into the ground repeatedly is likely negligibly more efficient than clawing at it unarmed.",
         "ironstick": "Iron stick",
         "ironstickdsc": "It's... a stick. But heavier!",
         "machete": "Machete",
@@ -648,7 +648,9 @@
         "discretionwarning": "This game contains depictions of violence/self harm",
         "healthpaneltip": "Health panel",
         "inventorylisttip": "Show list of all held items/containers",
+        "inventorylisttipname": "Inventory list",
         "combinetip": "Hold two of the same item in both hands to combine their durabilities\nOnly applies to combineable items",
+        "combinetipname": "Combine",
         "combineable": "Combineable"
     },
     "character": [
